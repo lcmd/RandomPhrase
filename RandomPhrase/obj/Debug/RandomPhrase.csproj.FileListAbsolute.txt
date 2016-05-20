@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomPhrase\RandomPhrase\bin\Debug\RandomPhrase.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomPhrase\RandomPhrase\bin\Debug\RandomPhrase.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomPhrase\RandomPhrase\bin\Debug\RandomPhrase.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomPhrase\RandomPhrase\obj\Debug\RandomPhrase.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomPhrase\RandomPhrase\obj\Debug\RandomPhrase.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomPhrase\RandomPhrase\obj\Debug\RandomPhrase.pdb
